@@ -18,6 +18,14 @@ Documentation for Cashier can be found on the [Laravel website](https://laravel.
 4. Swap subscription <br>
 5. Get user subscription <br> 
 
+# Before Start please keep in mind
+
+1. commenting of funtions is not pending yet. <br>
+2. Here is no description which filed is required.So, assume that every field is required in api's.
+3. Postman collection file is present in repository , you can test it without bearer token.
+4. You can also contribute to enhance it , so that we can use it for generic purpose.
+5. <b>Response of every function is in json with global scop library, so before using it change the returing response of every function according to your project</b>
+
 # Steps which have to follow 
 
 ## 1.Install cachier package
