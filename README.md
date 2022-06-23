@@ -496,7 +496,7 @@ class StripeSubscriptionController extends Controller
 ```
 
 
-## 7. Past this in api.php
+## 7. Paste this in api.php
 
 ```
 Route::post('new-subscription', [StripeSubscriptionController::class, 'getNewSubscription']);
